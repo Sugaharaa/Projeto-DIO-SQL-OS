@@ -90,7 +90,7 @@ O objetivo é criar um **esquema conceitual do zero**, a partir da narrativa pro
 
 ---
 
-## 🔗 Relacionamentos
+## Relacionamentos
 
 | Entidade A | Relacionamento | Entidade B | Tipo |
 |------------|----------------|------------|------|
@@ -103,8 +103,8 @@ O objetivo é criar um **esquema conceitual do zero**, a partir da narrativa pro
 
 ---
 
-## 🖼️ Diagrama Conceitual
+## Diagrama Conceitual
 
-![Diagrama da Oficina](https://raw.githubusercontent.com/Sugaharaa/Projeto-DIO-SQL-OS/main/Diagrama/diagrama.png)
+![Diagrama da Oficina](https://raw.githubusercontent.com/Sugaharaa/Projeto-DIO-SQL-OS/main/Diagrama/Diagrama.png)
 
 
